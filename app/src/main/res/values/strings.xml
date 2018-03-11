@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">SlimNTrim</string>
+
+    <string-array name="minutes_array">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="cardio_array">
+        <item>star jumps</item>
+        <item>burpees</item>
+        <item>high knees</item>
+        <item>butt kickers</item>
+        <item>jumping jacks</item>
+        <item>invisible jump rope</item>
+        <item>squat jumps</item>
+        <item>mountain climbers</item>
+        <item>jumping lunges</item>
+        <item>frog jumps</item>
+    </string-array>
+
+    <string-array name="arms_array">
+        <item>push ups (elbows out)</item>
+        <item>push ups (elbows in)</item>
+        <item>tricep dips</item>
+        <item>lateral plank walks</item>
+        <item>plank</item>
+        <item>side plank</item>
+        <item>plank jacks</item>
+        <item>inchworm to push up</item>
+        <item>arm circles</item>
+        <item>diamond push ups</item>
+    </string-array>
+
+    <string-array name="abs_array">
+        <item>crunches</item>
+        <item>sit ups</item>
+        <item>v ups</item>
+        <item>leg raises</item>
+        <item>pilates 100s</item>
+        <item>leg scissors</item>
+        <item>knee to elbow</item>
+        <item>reverse crunches</item>
+        <item>elbow plank</item>
+        <item>roll ups</item>
+    </string-array>
+
+    <string-array name="legs_array">
+        <item>squats</item>
+        <item>wall sit</item>
+        <item>clamshells</item>
+        <item>heel raises</item>
+        <item>lunges</item>
+        <item>side lunges</item>
+        <item>side leg raises</item>
+        <item>inner thigh leg raises</item>
+        <item>leg raises (lying on stomach)</item>
+        <item>reverse lunges</item>
+    </string-array>
+
+    <string-array name="stretching_array">
+        <item>downward dog</item>
+        <item>child's pose</item>
+        <item>butterfly</item>
+        <item>pigeon</item>
+        <item>quad stretch</item>
+        <item>pull arm across chest</item>
+        <item>calf stretch</item>
+        <item>touch your toes</item>
+        <item>neck rolls</item>
+        <item>hip flexor stretch</item>
+    </string-array>
+
+    <string-array name="all_array">
+        <item>star jumps</item>
+        <item>burpees</item>
+        <item>high knees</item>
+        <item>butt kickers</item>
+        <item>jumping jacks</item>
+        <item>invisible jump rope</item>
+        <item>squat jumps</item>
+        <item>mountain climbers</item>
+        <item>jumping lunges</item>
+        <item>frog jumps</item>
+        <item>push ups (elbows out)</item>
+        <item>push ups (elbows in)</item>
+        <item>tricep dips</item>
+        <item>lateral plank walks</item>
+        <item>plank</item>
+        <item>side plank</item>
+        <item>plank jacks</item>
+        <item>inchworm to push up</item>
+        <item>arm circles</item>
+        <item>diamond push ups</item>
+        <item>crunches</item>
+        <item>sit ups</item>
+        <item>v ups</item>
+        <item>leg raises</item>
+        <item>pilates 100s</item>
+        <item>leg scissors</item>
+        <item>knee to elbow</item>
+        <item>reverse crunches</item>
+        <item>elbow plank</item>
+        <item>roll ups</item>
+        <item>squats</item>
+        <item>wall sit</item>
+        <item>clamshells</item>
+        <item>heel raises</item>
+        <item>lunges</item>
+        <item>side lunges</item>
+        <item>side leg raises</item>
+        <item>inner thigh leg raises</item>
+        <item>leg raises (lying on stomach)</item>
+        <item>reverse lunges</item>
+        <item>downward dog</item>
+        <item>child's pose</item>
+        <item>butterfly</item>
+        <item>pigeon</item>
+        <item>quad stretch</item>
+        <item>pull arm across chest</item>
+        <item>calf stretch</item>
+        <item>touch your toes</item>
+        <item>neck rolls</item>
+        <item>hip flexor stretch</item>
+    </string-array>
+
+</resources>

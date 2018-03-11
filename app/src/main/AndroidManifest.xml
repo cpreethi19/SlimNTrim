@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="a2020pchidamb.tjhsst.org.myfitness">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".cardioActivity" />
+        <activity android:name=".armsActivity" />
+        <activity android:name=".absActivity" />
+        <activity android:name=".legsActivity" />
+        <activity android:name=".stretchActivity" />
+        <activity android:name=".CardioDisplayActivity" />
+        <activity android:name=".absDisplayActivity" />
+        <activity android:name=".armsDisplayActivity" />
+        <activity android:name=".legsDisplayActivity" />
+        <activity android:name=".stretchDisplayActivity" />
+        <activity android:name=".allDisplayActivity" />
+    </application>
+
+</manifest>
